@@ -7,7 +7,7 @@ main:
     url: /talks/    
 
   - title: "Downloads"
-    url: /files/    
+    url: https://github.com/Eresh-tech/Eresh-tech.github.io/tree/master/files    
     
   - title: "Portfolio"
     url: /portfolio/
