@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eresh"
 title_separator          : "-"
 name                     : &name "Eresh"
-description              : &description "R&D in gwx"
+description              : &description "R&D"
 url                      : https://Eresh-tech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Eresh-tech.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Eresh"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "HUST master, know little about narrow linewidth fiber laser, currently works as R&D in EDA company"
+  location         : "ShenZhen"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  downloads:
     output: true
     permalink: /:collection/:path/
   publications:
